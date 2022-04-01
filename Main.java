@@ -75,11 +75,11 @@ public class Main {
     // Print semua mobil/motor yang tidak selamat
 
     System.out.print("Mobil dengan plat ");
-    antrianMotor.printAll();
+    antrianMobil.printAll();
     System.out.println("tertimbun reruntuhan");
 
     System.out.print("Motor dengan plat ");
-    antrianMobil.printAll();
+    antrianMotor.printAll();
     System.out.println("tertimbun reruntuhan");
     System.out.println();
 
